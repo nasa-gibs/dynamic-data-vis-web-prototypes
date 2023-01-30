@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/dynamic-data-vis-web-prototypes/VEDA-Testing-Demo/static/css/main.68eb0864.css",
-    "main.js": "/dynamic-data-vis-web-prototypes/VEDA-Testing-Demo/static/js/main.1313e19e.js",
-    "static/media/logo.png": "/dynamic-data-vis-web-prototypes/VEDA-Testing-Demo/static/media/logo.98b7e889421ecf36dd5e.png",
-    "index.html": "/dynamic-data-vis-web-prototypes/VEDA-Testing-Demo/index.html",
-    "main.68eb0864.css.map": "/dynamic-data-vis-web-prototypes/VEDA-Testing-Demo/static/css/main.68eb0864.css.map",
-    "main.1313e19e.js.map": "/dynamic-data-vis-web-prototypes/VEDA-Testing-Demo/static/js/main.1313e19e.js.map"
+    "main.css": "/static/css/main.68eb0864.css",
+    "main.js": "/static/js/main.7db03903.js",
+    "static/media/logo.png": "/static/media/logo.98b7e889421ecf36dd5e.png",
+    "index.html": "/index.html",
+    "main.68eb0864.css.map": "/static/css/main.68eb0864.css.map",
+    "main.7db03903.js.map": "/static/js/main.7db03903.js.map"
   },
   "entrypoints": [
     "static/css/main.68eb0864.css",
-    "static/js/main.1313e19e.js"
+    "static/js/main.7db03903.js"
   ]
 }
