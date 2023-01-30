@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/dynamic-data-vis-web-prototypes/VEDA-Testing-Demo/static/css/main.68eb0864.css",
-    "main.js": "/dynamic-data-vis-web-prototypes/VEDA-Testing-Demo/static/js/main.483da96b.js",
+    "main.js": "/dynamic-data-vis-web-prototypes/VEDA-Testing-Demo/static/js/main.d923e004.js",
     "static/media/logo.png": "/dynamic-data-vis-web-prototypes/VEDA-Testing-Demo/static/media/logo.98b7e889421ecf36dd5e.png",
     "index.html": "/dynamic-data-vis-web-prototypes/VEDA-Testing-Demo/index.html",
     "main.68eb0864.css.map": "/dynamic-data-vis-web-prototypes/VEDA-Testing-Demo/static/css/main.68eb0864.css.map",
-    "main.483da96b.js.map": "/dynamic-data-vis-web-prototypes/VEDA-Testing-Demo/static/js/main.483da96b.js.map"
+    "main.d923e004.js.map": "/dynamic-data-vis-web-prototypes/VEDA-Testing-Demo/static/js/main.d923e004.js.map"
   },
   "entrypoints": [
     "static/css/main.68eb0864.css",
-    "static/js/main.483da96b.js"
+    "static/js/main.d923e004.js"
   ]
 }
