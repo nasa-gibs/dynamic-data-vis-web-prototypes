@@ -5,11 +5,11 @@ import ApiTestingPage from "./pages/ApiTestingPage";
 import ImageryPage from "./pages/ImageryPage";
 
 export const App = () => (
-  <BrowserRouter>
+  <BrowserRouter basename={process.env.PUBLIC_URL}>
     <ChakraProvider theme={myTheme}>
       <Routes>
         {/* <Route path="/gibs" element={<ImageryPage />} /> */}
-        <Route path="/" element={<ApiTestingPage />} />
+        <Route path="/dynamic-data-vis-web-prototypes" element={<ApiTestingPage />} />
       </Routes>
     </ChakraProvider>
   </BrowserRouter>

@@ -1,7 +1,7 @@
 {
   "name": "frontend",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "homepage": "https://nasa-gibs.github.io/dynamic-data-vis-web-prototypes/VEDA-Testing-Demo/",
   "dependencies": {
     "@arcgis/core": "^4.25.5",
