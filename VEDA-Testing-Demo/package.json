@@ -50,7 +50,7 @@
     "fix": "npm run prettier -- --write",
     "format": "npm run fix && npm run lint:fix",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d build -e VEDA-Testing-Demo"
   },
   "eslintConfig": {
     "extends": "react-app"
