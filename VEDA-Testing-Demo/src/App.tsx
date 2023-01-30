@@ -9,7 +9,7 @@ export const App = () => (
     <ChakraProvider theme={myTheme}>
       <Routes>
         {/* <Route path="/gibs" element={<ImageryPage />} /> */}
-        <Route path="/dynamic-data-vis-web-prototypes" element={<ApiTestingPage />} />
+        <Route path="/dynamic-data-vis-web-prototypes/" element={<ApiTestingPage />} />
       </Routes>
     </ChakraProvider>
   </BrowserRouter>
