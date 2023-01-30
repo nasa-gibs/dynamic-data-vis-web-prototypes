@@ -1,4 +1,0 @@
-{
-  "appService.defaultWebAppToDeploy": "/subscriptions/34dd956c-fd63-41da-9b2b-4554929f34fb/AppServices/subscriptions/34dd956c-fd63-41da-9b2b-4554929f34fb/resourceGroups/MapImagery_group/providers/Microsoft.Web/sites/MapImagery/Files/hostingstart.html/subscriptions/34dd956c-fd63-41da-9b2b-4554929f34fb/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/ImageryMapping",
-  "appService.deploySubpath": ".",
-}
