@@ -2,6 +2,7 @@
   "name": "frontend",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://nasa-gibs.github.io/dynamic-data-vis-web-prototypes/VEDA-Testing-Demo/",
   "dependencies": {
     "@arcgis/core": "^4.25.5",
     "@chakra-ui/icons": "^2.0.13",
@@ -47,7 +48,9 @@
     "lint:fix": "npm run lint -- --fix",
     "prettier": "npx prettier src --check",
     "fix": "npm run prettier -- --write",
-    "format": "npm run fix && npm run lint:fix"
+    "format": "npm run fix && npm run lint:fix",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -67,6 +70,7 @@
   "devDependencies": {
     "@types/leaflet": "^1.9.0",
     "eslint": "^8.32.0",
+    "gh-pages": "^5.0.0",
     "prettier": "2.8.3",
     "tslint-config-prettier": "^1.18.0",
     "webpack-dev-server": "^4.11.1"
