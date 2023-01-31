@@ -1,5 +1,7 @@
 # VEDA Testing Demo
 
+[Live Link](https://nasa-gibs.github.io/dynamic-data-vis-web-prototypes/VEDA-Testing-Demo/index.html)
+
 ## Technologies
 * Typescript
 * React
@@ -11,4 +13,4 @@
 * `npm start`
 
 ### Created By:
-![Ryan Weiler](https://github.com/ryanweiler92)
+[Ryan Weiler](https://github.com/ryanweiler92)
