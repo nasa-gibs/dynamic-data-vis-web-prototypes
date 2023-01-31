@@ -1,0 +1,6 @@
+version: 2
+updates:
+  - package-ecosystem: "npm"
+    directory: "/VEDA-Testing-Demo"
+    schedule:
+      interval: "daily"
