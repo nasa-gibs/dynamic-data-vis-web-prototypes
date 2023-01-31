@@ -1,6 +1,6 @@
 # VEDA Testing Demo
 
-[Live Link](https://nasa-gibs.github.io/dynamic-data-vis-web-prototypes/VEDA-Testing-Demo/index.html)
+[Live Link](https://nasa-gibs.github.io/dynamic-data-vis-web-prototypes/VEDA-Testing-Demo/)
 
 ## Technologies
 * Typescript
